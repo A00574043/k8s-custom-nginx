@@ -2,7 +2,7 @@ name: Build and Push Docker Image
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/<tu_usuario_en_minusculas>/k8s-custom-nginx
+  IMAGE_NAME: ghcr.io/a00574043/k8s-custom-nginx
 
 permissions:
   contents: read
